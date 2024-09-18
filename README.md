@@ -20,7 +20,3 @@ Hey! Bem vindos! Sou analista de BI com 4 anos de experiência em análise de da
 ![PL](https://img.shields.io/badge/SQL-FFFFFF?style=for-the-badge&logo=oracle&logoColor=FF0000&labelColor=FFFFFF&color=FF0000)
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
-## 🤝 Minhas Contribuições
-
-![Snake animation](https://github.com/bianca-faguiar/bianca-faguiar/blob/output/github-contribution-grid-snake.svg)
